@@ -1,0 +1,65 @@
+{
+  "name": "Divã",
+  "short_name": "Divã",
+  "description": "Plano de comunicação de Letícia Alves, psicóloga: rotina de 8 semanas, textos prontos e passo a passo.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF4F8",
+  "theme_color": "#FFF4F8",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hoje",
+      "short_name": "Hoje",
+      "url": "./#/hoje"
+    },
+    {
+      "name": "Posts",
+      "short_name": "Posts",
+      "url": "./#/posts"
+    },
+    {
+      "name": "Perfis",
+      "short_name": "Perfis",
+      "url": "./#/perfis"
+    }
+  ]
+}
